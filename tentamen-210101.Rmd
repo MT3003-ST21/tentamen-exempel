@@ -1,0 +1,40 @@
+---
+title: "MT3003 tentamen"
+author: "[förnamn] [efternamn] ([personnummer])"
+date: '2021-01-01'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, error = TRUE) # Ändra ej
+```
+
+## Försäkran och identifiering
+
+Jag, [förnamn] [efternamn] ([personnummer]), försäkrar att lösningarna bifogat i denna fil är mitt eget självständigt utförda arbete.
+
+```{r, echo = FALSE, out.width = "50%", fig.cap = "Bild på min identitetshandling och datorskärm"}
+knitr::include_graphics([min_id_bild.jpg])
+```
+
+## Uppgift 1
+
+Min tabell över den totala folkmängden per kontinent under 2020 ges av
+
+```{r}
+# Min kod
+```
+
+Min figur över befolkningsutvecklingen 1900-2020 ges av
+
+```{r}
+# Min kod
+```
+
+Min tabell över antalet medaljer per miljoner invånare ges av
+
+```{r}
+# Min kod
+```
+
+
