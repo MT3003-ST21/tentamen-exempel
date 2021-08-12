@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE, error = TRUE) # Ändra ej
 Jag, [förnamn] [efternamn] ([personnummer]), försäkrar att lösningarna bifogat i denna fil är mitt eget självständigt utförda arbete.
 
 ```{r, echo = FALSE, out.width = "50%", fig.cap = "Bild på min identitetshandling och datorskärm"}
-knitr::include_graphics([min_id_bild.jpg])
+knitr::include_graphics("[min_id_bild.jpg]")
 ```
 
 ## Uppgift 1
